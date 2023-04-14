@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    color: azure;
+    /* background-color: lightcoral; */
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url("http://www.nits.ac.in/images%20of%20site/covid-19-image.png");
+}
+h1{
+    color: black;
+}
+
+#data {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 100%;
+  }
+  
+  .x {
+    text-align: center;
+    width: 25%;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid #fff;
+    /* background-color: orange; */
+  }
+  
+  .tile {
+    background-color: rgb(000, 0, 0, 0.70);
+    border: 3px solid #fff;
+    color: #fff;
+    padding: 20px;
+    margin: auto;
+  }
+  
+
+
